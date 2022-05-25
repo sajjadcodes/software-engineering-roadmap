@@ -6,6 +6,7 @@
 1. Programming Fundamental
 1. Object Oriented Programming
 1. Software Construction
-1. Object Oriented analysis and Design 
+1. Object Oriented analysis and Design
+1. Design Patterns  
 1. Web Application Development 
 
