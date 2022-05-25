@@ -11,6 +11,6 @@
 1. Web Application Development 
 1. Software Architecture
 1. Software Project Management
-1. Entreprenuership
+1.Entrepreneurial Journey
 1. Final Project 
 
