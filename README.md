@@ -5,5 +5,6 @@
 1. Think Like Computer
 1. Programming Fundamental
 1. Object Oriented Programming
+1. Software Construction
 1. Object Oriented analysis and Design 
 
