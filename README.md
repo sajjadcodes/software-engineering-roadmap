@@ -9,4 +9,5 @@
 1. Object Oriented analysis and Design
 1. Design Patterns  
 1. Web Application Development 
+1. Software Architecture 
 
