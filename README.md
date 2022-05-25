@@ -10,5 +10,5 @@
 1. Design Patterns  
 1. Web Application Development 
 1. Software Architecture
-1.  
+1. Software Project Management
 
