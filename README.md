@@ -4,5 +4,6 @@
 1. Introduction to Computer Science.
 1. Think Like Computer
 1. Programming Fundamental
-3. Object Oriented Programming
+1. Object Oriented Programming
+1. Object Oriented analysis and Design 
 
